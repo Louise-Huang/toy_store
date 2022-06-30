@@ -19,7 +19,7 @@
 
 <style scoped lang="scss">
 .navbar-brand {
-  color: #A93B20;
+  color: #B69B86;
 }
 .navbar {
   background-color: #EBEBE7;

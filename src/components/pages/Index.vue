@@ -218,7 +218,7 @@
   padding-bottom: 40px;
   .news-header {
     font-size: 32px;
-    color: #A93B20;
+    color: #B69B86;
     font-weight: 700;
   }
   .news-block {
