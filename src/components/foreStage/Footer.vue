@@ -35,8 +35,8 @@
       <div class="container">
           <div class="footer row d-flex justify-content-center align-items-center">
             <div class="col-10 d-flex justify-content-between align-items-center">
-              <div class="footer-text d-flex justify-content-center align-items-center">
-                <a class="logo mr-3" href="#">Toy Story</a>
+              <div class="footer-text d-flex justify-content-start align-items-center">
+                <a class="mr-3 p-0" href="#"><img src="../../assets/images/logo.png" alt="" style="width: 100%;"></a>
                 <span class="copyright text-primary">Copyright © 2022 Louise Huang All Rights Reserved</span>
               </div>
               <ul class="navbar-nav px-3 d-flex flex-row">
@@ -69,8 +69,8 @@
 }
 .footer {
   height: 70px;
-  .logo {
-    font-size: 24px;
+  .footer-text a {
+    width: 20%;
   }
   .copyright {
     font-size: 12px;

@@ -72,7 +72,7 @@
     <!-- news -->
     <div class="news">
       <div class="container">
-        <div class="news-header text-center mb-4">TOY STORY NEWS</div>
+        <div class="news-header text-center mb-4 text-primary">TOY STORY NEWS</div>
         <div class="row d-flex justify-content-center">
           <div class="col-5 pl-0">
             <a href="">
@@ -218,7 +218,6 @@
   padding-bottom: 40px;
   .news-header {
     font-size: 32px;
-    color: #B69B86;
     font-weight: 700;
   }
   .news-block {

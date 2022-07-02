@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar navbar-light fixed-top shadow">
     <div class="container">
-      <a class="navbar-brand mr-0" href="#">Toy Story</a>
+      <a class="navbar-brand mr-0 p-0" href="#"><img src="../../assets/images/logo.png" alt="" style="width: 40%;"></a>
       <ul class="navbar-nav px-3 d-flex flex-row">
         <li class="nav-item mr-4">
           <a class="nav-link" href="#"><i class="fas fa-store-alt"></i>&ensp;Product</a>
